@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Specialized in Flutter ,Mobile App development<br>Make  projects as a freelancer<br>Studying Software Engineering at NED UET,Karachi,Pakistan<br>
+👨‍💻Specialized in Flutter ,Mobile App development<br>💵Make  projects as a freelancer<br>📚Studying Software Engineering at NED UET,Karachi,Pakistan<br>
 
 
 # 💻 Tech Stack:
